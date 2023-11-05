@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergeyBednyuk
-- 👀 I’m interested in Sowftware Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning All about programming
 - 📫 How to reach me sergeybednyuk@gmail.com
 
